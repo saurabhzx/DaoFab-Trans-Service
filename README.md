@@ -13,7 +13,7 @@ Steps to Run
 
 API to fetch parent details:- 
 
-http://127.0.0.1:9008/daofab-service/api/internal/v1/daofab-parent-transaction/data?page_no=2
+http://127.0.0.1:9008/daofab-service/api/internal/v1/daofab-parent-transaction/data?page_no=0
 
 API to fetch the CHILD detail by parent ID
 
