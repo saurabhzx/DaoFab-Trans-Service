@@ -4,7 +4,7 @@ This is the DoaFab-Trans-Service having the parent and child transactions
 
 Steps to Run 
 
-1. Simnple Build and run the product with gradle or import it in the IntelliJ IDE
+1. Simply Build and run the product with gradle or import it in the IntelliJ IDE
 
 ./gradlew bootRun  (This to run the Spring boot stand alone web app)
 
